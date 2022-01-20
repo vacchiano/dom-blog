@@ -25,8 +25,8 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          Hey, I'm Dom. I'm a technical co-founder working on new features at BiopharmIQ. Feel free to connect on
-          {' '}<a href="https://twitter.com/domvacchiano" target="_blank">Twitter</a>.
+          Hey, I'm Dom. I'm a technical co-founder working on new features at <a href="https://bpiq.com" target="_blank">BiopharmIQ</a>. 
+          Feel free to connect on <a href="https://twitter.com/domvacchiano" target="_blank">Twitter</a>.
         </p>
       </section>
       <section>
